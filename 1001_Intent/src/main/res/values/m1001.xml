@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m1001_b001">瀏覽網頁</string>
+    <string name="m1001_b002">我家位置地圖</string>
+    <string name="m1001_b003">路徑規畫</string>
+    <string name="m1001_b004">播放多媒體</string>
+    <string name="m1001_b005">顯示聯絡人清單</string>
+    <string name="m1001_b006">傳送 Email</string>
+    <string name="m1001_b007">顯示某個朋友的詳細資料</string>
+    <string name="m1001_b008">從google搜索內容</string>
+    <string name="m1001_b009">撥打電話</string>
+</resources>
